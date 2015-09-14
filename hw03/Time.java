@@ -8,9 +8,7 @@ import java.util.Scanner;
 // This program takes 2 inputs from user, current time and planned dinner time
 // then it calculates the time difference and print out that value.
 // the time is in HHMM format and uses military time
-//Erli Qiu 
-//CSE002-310
-//Prof.Fouh
+
 
 
 public class Time {
