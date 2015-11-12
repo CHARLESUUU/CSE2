@@ -1,3 +1,11 @@
+/*
+ *	This program is a simple mine sweeper game.
+ *	It will randomly generate mines, depending on user inputs, and place it on the "gird"
+ *	It will increase the cells that are adjacent to mines by 1 
+ * Erli Qiu
+ * Prof.Fouh
+ * CSE002-310
+*/
 
 import java.util.Scanner;
 public class mineSweeper {
